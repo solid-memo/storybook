@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";function t(){return matchMedia(`(prefers-reduced-motion: reduce)`).matches}var n;function r(){return(r=e((()=>{n=`cubic-bezier(0.2, 0.8, 0.3, 1)`})))()}export{r as n,t as r,n as t};

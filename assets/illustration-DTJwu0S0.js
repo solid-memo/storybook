@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";var t;function n(){return(n=e((()=>{t=new URL(`illustration-Cl5GAjal.svg`,import.meta.url).href})))()}export{n,t};

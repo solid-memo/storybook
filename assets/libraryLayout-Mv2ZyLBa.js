@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";function t(e){let t=r.exec(e);return t===null?null:{base:t[1],name:t[2]}}function n(e){let n=t(e);return n===null?`${e}#series`:`${n.base}index.ttl#${n.name}`}var r;function i(){return(i=e((()=>{r=/^(.*\/decks\/)([^/]+)\/v([1-9][0-9]*)\.ttl$/})))()}export{n,i as t};

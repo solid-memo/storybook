@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";import{n as t,t as n}from"./webId-DLVKc-Ku.js";function r(e){return t(e)?new URL(e).host:null}function i(e,t,n){let{pictureHosts:r=[],...i}=e,o=r.filter(e=>e!==t);return n&&t.length<=a&&(o=[...o,t].slice(-100)),o.length===0?i:{...i,pictureHosts:o}}var a;function o(){return(o=e((()=>{n(),a=253})))()}export{r as n,i as r,o as t};

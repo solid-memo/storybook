@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";import{n as t,t as n}from"./libraryLayout-Mv2ZyLBa.js";function r(e){return{seriesUrl:t(e),version:`1`,releases:[{url:e,version:`1`}],themes:[],keywords:{}}}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};

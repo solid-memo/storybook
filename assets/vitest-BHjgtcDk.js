@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";var t,n;function r(){return(r=e((()=>{({fn:t}=__STORYBOOK_MODULE_TEST__),n={fn:t}})))()}export{n,r as t};

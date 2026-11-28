@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";function t(e){let t=e.trim(),i=t.lastIndexOf(`<`);if(i===-1||!t.endsWith(`>`))return{name:t};let a=t.slice(i+1,-1),o=t.slice(0,i).trim();return!n.test(a)||r.test(o)?{name:t}:{name:o===``?a:o,email:a}}var n,r;function i(){return(i=e((()=>{n=/^[^\s<>@?#%&,;]+@[^\s<>@?#%&,;]+$/,r=/[\n\r\u2028\u2029]/})))()}export{t as n,i as t};

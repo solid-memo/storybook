@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";function t(e){return e.slice(e.indexOf(`#`)+1)}function n(e){return e.split(`#`)[0]}function r(){return(r=e((()=>{})))()}export{t as n,r,n as t};

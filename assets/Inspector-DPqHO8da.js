@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";import{n as t,r as n,t as r}from"./jsxRuntime-BdGP1uZc.js";function i({id:e,text:t,prompt:i,keyed:a}){return r(n,{children:[r(`p`,{id:e,class:`chart-inspector hint`,children:t??i}),r(`p`,{class:`visually-hidden`,role:`status`,children:a?t:null})]})}function a(){return(a=e((()=>{t()})))()}export{a as n,i as t};

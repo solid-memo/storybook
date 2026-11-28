@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";import{i as t,n}from"./i18n-B8hFNMkc.js";function r({reviews:e,recalled:t}){return e===0?0:t/e*100}function i(){let{t:e,formatPercent:n}=t();return({reviews:t,recalled:r})=>t===0?e(`statistics.noReviewsThen`):e(`statistics.recallShare`,{percent:n(r/t),count:t})}function a(){return(a=e((()=>{n()})))()}export{r as n,i as r,a as t};

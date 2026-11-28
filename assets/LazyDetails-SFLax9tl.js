@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";import{n as t,t as n}from"./jsxRuntime-BdGP1uZc.js";import{o as r,s as i}from"./hooks-CDhn2QBs.js";function a({summary:e,children:t}){let[i,a]=r(!1);return n(`details`,{open:i,onToggle:e=>a(e.currentTarget.open),children:[n(`summary`,{children:e}),i&&t]})}function o(){return(o=e((()=>{i(),t()})))()}export{o as n,a as t};

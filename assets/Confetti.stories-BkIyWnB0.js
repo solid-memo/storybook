@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";import{n as t,t as n}from"./Confetti-BH9RnSzw.js";var r,i,a;function o(){return(o=e((()=>{t(),r={title:`Basics/Confetti`,component:n},i={},a=[`Celebration`]})))()}o();export{i as Celebration,a as __namedExportsOrder,r as default};

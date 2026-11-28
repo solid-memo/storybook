@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-Dh6celcD.js";function t(e){return e.isComposing||e.keyCode===229}function n(){return(n=e((()=>{})))()}export{n,t};
